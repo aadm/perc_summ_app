@@ -7,7 +7,7 @@
 #
 # or go to:
 #
-# http://perc_summ_app.streamlit.app
+# http://percsummapp.streamlit.app
 #
 #--------------------------------------------------------------------
 
